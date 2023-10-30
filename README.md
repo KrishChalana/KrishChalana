@@ -12,7 +12,7 @@
 
 - 🤝 I’m looking for help with Understanding **Graph Neural Networks**
 
-- 👨‍💻 All of my projects are available at [https://github.com/TheRugbro](https://github.com/TheRugbro)
+- 👨‍💻 All of my projects are available at [https://github.com/KrishChalana](https://github.com/KrishChalana)
 
 - 💬 Ask me about **Computer Vision and NLP**
 
