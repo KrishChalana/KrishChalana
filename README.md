@@ -1,20 +1,20 @@
 <h1 align="center">Hi, I am Krish Chalana</h1>
-<h3 align="center">A passionate Deep learning and Machine learning Enthusiast</h3>
+<h3 align="center">A passionate Web Dev and Deep Learning Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=therugbro&label=Profile%20views&color=0e75b6&style=flat" alt="therugbro" /> </p>
 
 <img align='right' src="https://media.giphy.com/media/0lGd2OXXHe4tFhb7Wh/giphy.gif"/>
 <p align="left"> <a href="https://twitter.com/game_rugs" target="blank"><img src="https://img.shields.io/twitter/follow/game_rugs?logo=twitter&style=for-the-badge" alt="game_rugs" /></a> </p>
 
-- 🔭 I’m currently working on **Sign Language Classifier Project**
+- 🔭 I’m currently working on **a Web App**
 
-- 🌱 I’m currently learning **Natural Language Processing**
+- 🌱 I’m currently revising **Neural Nets and My Deep learning knowledge ( kind of learning lol)**
 
-- 🤝 I’m looking for help with Understanding **Graph Neural Networks**
+- 🤝 I’m looking for help with Understanding **WEB3**
 
 - 👨‍💻 All of my projects are available at [https://github.com/KrishChalana](https://github.com/KrishChalana)
 
-- 💬 Ask me about **Computer Vision and NLP**
+
 
 - 📫 How to reach me **krisshchalana@Gmail.com**
 
