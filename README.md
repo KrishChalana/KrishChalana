@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently revising **Neural Nets and My Deep learning knowledge ( kind of learning lol)**
 
-- 🤝 I’m looking for help with Understanding **WEB3**
+- 🤝 I’m looking for help with Understanding **RUST**
 
 - 👨‍💻 All of my projects are available at [https://github.com/KrishChalana](https://github.com/KrishChalana)
 
